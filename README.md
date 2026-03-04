@@ -1,6 +1,3 @@
-# Quick-park-case-study
-A UX case study focused on solving urban parking challenges through a real-time parking finder and booking mobile application. 
-
 📌 Overview
 Quick Park is a mobile app designed to help users find and reserve parking spaces quickly and efficiently in busy urban areas.
 
