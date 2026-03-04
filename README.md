@@ -32,4 +32,5 @@ Quick Park allows users to:
 - FigJam
 
 🎯 Outcome
+
 Designed a clean, user-friendly parking solution focused on reducing search time and improving urban mobility experience.
