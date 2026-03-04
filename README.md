@@ -1,7 +1,9 @@
 Quick Park – Parking Finder App 🚗
+
 UX case study for a parking finder mobile app that helps users locate and reserve parking spaces easily.
 
 📌 Overview
+
 Quick Park is a mobile app designed to help users find and reserve parking spaces quickly and efficiently in busy urban areas.
 
 ❗ Problem
