@@ -2,35 +2,35 @@ Quick Park – Parking Finder App 🚗
 
 UX case study for a parking finder mobile app that helps users locate and reserve parking spaces easily.
 
-📌 Overview
+📌 Overview:
 
 Quick Park is a mobile app designed to help users find and reserve parking spaces quickly and efficiently in busy urban areas.
 
-❗ Problem
+❗ Problem:
 Users struggle to:
 - Find available parking in crowded areas
 - Compare parking prices
 - Save time during peak hours
 
-💡 Solution
+💡 Solution:
 Quick Park allows users to:
 - Search nearby parking spots
 - View real-time availability
 - Compare prices
 - Reserve parking instantly
 
-👤 My Role
+👤 My Role:
 - UX Research
 - User Personas
 - Wireframing
 - UI Design
 - Prototyping
 
-🛠 Tools Used
+🛠 Tools Used:
 - Figma
 - Miro
 - FigJam
 
-🎯 Outcome
+🎯 Outcome:
 
 Designed a clean, user-friendly parking solution focused on reducing search time and improving urban mobility experience.
